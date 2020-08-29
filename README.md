@@ -1,5 +1,5 @@
 # MOWHarvester
-Analyze Missouri waterfowl harvest data collected by the state of Missouri. The data is pulled from https://extra.mdc.mo.gov/widgets/wtrfwl_harvest/. Current Missouri waterfowl hunting regulations can be found here: https://huntfish.mdc.mo.gov/hunting-trapping/species/waterfowl/waterfowl-seasons-hours. You can view past regulations using the links below.
+Using Python and Jupyter Notebooks to analyze Missouri waterfowl harvest data collected by the state of Missouri. The data is pulled from https://extra.mdc.mo.gov/widgets/wtrfwl_harvest/. Current Missouri waterfowl hunting regulations can be found here: https://huntfish.mdc.mo.gov/hunting-trapping/species/waterfowl/waterfowl-seasons-hours. You can view past regulations using the links below.
 
 * 2016-2017 Regulations: https://web.archive.org/web/20161203165510/https://huntfish.mdc.mo.gov/hunting-trapping/species/waterfowl/waterfowl-seasons-hours
 * 2017-2018 Regulations: https://web.archive.org/web/20171230081221/https://huntfish.mdc.mo.gov/hunting-trapping/species/waterfowl/waterfowl-seasons-hours
@@ -27,6 +27,12 @@ The areas include:
 23. Otter Slough CA
 26. Ted Shanks CA
 27. Ten Mile Pond CA
+
+## Preview
+
+A simple example of the type of information we can get from the data.
+
+![Hunters vs Ducks](data/harvest/hunters_vs_ducks)
 
 ## References
 Able to use the following websites/apis for specific data
