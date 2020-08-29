@@ -32,7 +32,7 @@ The areas include:
 
 A simple example of the type of information we can get from the data.
 
-![Hunters vs Ducks](data/harvest/hunters_vs_ducks)
+![Hunters vs Ducks](data/harvest/hunters_vs_ducks.png)
 
 ## References
 Able to use the following websites/apis for specific data
