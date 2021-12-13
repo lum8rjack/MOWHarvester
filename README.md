@@ -1,10 +1,5 @@
 # MOWHarvester
-Using Python and Jupyter Notebooks to analyze Missouri waterfowl harvest data collected by the state of Missouri. The data is pulled from https://extra.mdc.mo.gov/widgets/wtrfwl_harvest/. Current Missouri waterfowl hunting regulations can be found here: https://huntfish.mdc.mo.gov/hunting-trapping/species/waterfowl/waterfowl-seasons-hours. You can view past regulations using the links below.
-
-* 2016-2017 Regulations: https://web.archive.org/web/20161203165510/https://huntfish.mdc.mo.gov/hunting-trapping/species/waterfowl/waterfowl-seasons-hours
-* 2017-2018 Regulations: https://web.archive.org/web/20171230081221/https://huntfish.mdc.mo.gov/hunting-trapping/species/waterfowl/waterfowl-seasons-hours
-* 2018-2019 Regulations: https://web.archive.org/web/20181230174751/https://huntfish.mdc.mo.gov/hunting-trapping/species/waterfowl/waterfowl-seasons-hours
-* 2019-2020 Regulations: https://web.archive.org/web/20200304184842/https://huntfish.mdc.mo.gov/hunting-trapping/species/waterfowl/waterfowl-seasons-hours
+Using Python and Jupyter Notebooks to analyze Missouri waterfowl harvest data collected by the state of Missouri. The data is pulled from https://extra.mdc.mo.gov/widgets/wtrfwl_harvest/. Current Missouri waterfowl hunting regulations can be found here: https://mdc.mo.gov/hunting-trapping/species/waterfowl.
 
 ## MDC Harvest Reports
 Taken from their website:
@@ -32,7 +27,27 @@ The areas include:
 
 A simple example of the type of information we can get from the data.
 
-![Hunters vs Ducks](data/harvest/hunters_vs_ducks.png)
+### Overview
+
+Combination of all of the graphs.
+
+![Hunters vs Ducks](media/graphs.png)
+
+### Ducks Per Season
+
+![Ducks per Season](media/ducks_per_season.png)
+
+### Ducks Per Month
+
+![Ducks per Month](media/ducks_per_month.png)
+
+### Hunters Per Season
+
+![Hunters per Season](media/hunters_per_season.png)
+
+### Hunters Per Month
+
+![Hunters per Month](media/hunters_per_month.png)
 
 ## References
 Able to use the following websites/apis for specific data
